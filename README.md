@@ -1,6 +1,6 @@
 Data Preprocessing Steps
 Dataset: marketing_campaign.csv
-Data Preprocessing Steps:
+
 1.	Import & Load Dataset
       Loaded the marketing_campaign.csv dataset into Jupyter Notebook.
 2.	Missing Values
